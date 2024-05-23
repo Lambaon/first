@@ -1,0 +1,39 @@
+{
+    "school": "Gymnázium, Střední odborná škola a Vyšší odborná škola Ledeč nad Sázavou ",
+    "teacher": "Adela Stefankova",
+    "grade": 2,
+    "classes": [
+      {
+        "subject": "Czach Language and Literature",
+        "time": "8:00 - 9:00"
+      },
+      {
+        "subject": "Math",
+        "time": "9:00 - 10:00"
+      },
+      {
+        "subject": "Czach History",
+        "time": "10:00 - 11:00"
+      },
+      {
+        "subject": "Physics",
+        "time": "11:00 - 12:00"
+      },
+      {
+        "subject": "Break",
+        "time": "12:00 - 12:30"
+      },
+      {
+        "subject": "Chemistry",
+        "time": "12:30 - 13:30"
+      },
+      {
+        "subject": "English Language",
+        "time": "13:30 - 14:30"
+      },
+      {
+        "subject": "PE",
+        "time": "14:30 - 15:30"
+      }
+    ]
+}
